@@ -1,0 +1,58 @@
+#Translated by TheBloodDivision
+pip.config.cat.clientOnly.name=Samo Stranka
+pip.config.cat.clientOnly.comment=Te nastavitve vplivajo samo na stranko ki uporablja ta mod.
+
+pip.config.prop.pipToggle.name=PiP Preklop
+pip.config.prop.pipToggle.comment=Tipka ki prižge Picture-in-Picture.
+
+pip.config.prop.pipIcons.name=Prikaži PiP Ikone
+pip.config.prop.pipIcons.comment=Prikaži PiP ikone ne glede na to ali je prižgan ali ne?
+
+pip.config.prop.pipView.name=PiP Prikaz
+pip.config.prop.pipView.comment=Kakšen pogled naj bo privzed pogled za PiP?\n0 = Prvoosebni pogled\n1 = Tretjeosebni pogled (od odzadaj)\n2 = Tretjeosebni pogled (od spredaj)
+
+pip.config.prop.updateFreq.name=Frekvenca Posodabljanja
+pip.config.prop.updateFreq.comment=Kako hitro naj se slika posodablja.\nČe nastavljeno na 0, s hitrostjo nalaganja.
+
+pip.config.prop.playerCam.name=Igralci
+pip.config.prop.playerCam.comment=Koga bi radi opazovali (Ta nastavitev niam limita, vendar jaz nebi priporočal več kot 3)?\nLočite igralce z vejicami. (Tem več ljudem sledite, tem večja bo zahteva za procesiranje)\nEG: Notch,Dinnerbone,Grumm
+
+pip.config.prop.showPlayerName.name=Prikaži igralčevo ime
+pip.config.prop.showPlayerName.comment=Prikaži igralčevo ime ko je PiP odprt?
+
+pip.config.prop.pictureSize.name=Picture-in-Picture Velikost
+pip.config.prop.pictureSize.comment=Največja velikost vsakega Picture-in-Picture ekrana. 10% - 90%.\nAutomatično spremenjeno ko je velikost večja od 100% prostora.
+
+pip.config.prop.corner.name=PiP Vogal
+pip.config.prop.corner.comment=V katerem vogalu naj se PiP prikaže?\n1 = Levo Zgoraj\n2 = Sredina Zgoraj\n3 = Desno Zgoraj\n4 =  Sredina Levo\n5 = Sredina(Resno, zakaj?)\n6 = Sredina Desno\n7 = Spodaj Levo\n8 = Sredina Spodaj\n9 = Spodaj Levo
+
+pip.config.prop.alignment.name=PiP Ureditev
+pip.config.prop.alignment.comment=Več PiP-jev se bo uvrstilo v katero smer?\n1 = Vodoravno\n2 = Navpično
+
+pip.config.prop.animation.name=Omogoči PiP animacijo?
+pip.config.prop.animation.comment=Omogoči animacijo na PiP-jih?
+
+pip.config.prop.transparency.name=PiP Prosojnost
+pip.config.prop.transparency.comment=Level prosojnosti na PiP-jih.\n0 = Prosojno\n100 = Ne prosojno
+
+pip.config.prop.transparencyMode.name=PiP Način Prosojnosti
+pip.config.prop.transparencyMode.comment=Način prosojnosti na PiP-jih.\n0 = Oba se prikažeta z enako prosojnostjo\n1 = Prikazi uporabljajo prosojno nastavitev ko izključeni, brez prosojnosti ko vključeni.\n2 = Prikazi uporabljajo prosojno nastavitev ko vključeni, brez prosojnosti ko izključeni.
+
+pip.config.prop.range.name=PiP Domet
+pip.config.prop.range.comment=Največji Domet v katerem bodo igralci sledeni. Nastavite na 0 da vovolite neomejeno.\nČe prikaz ne bo mogoč se bo slika nehala prikazovat.
+
+pip.viewing=Ogledovanje
+pip.noFrameBuffer=Pomnilniki okvirjev niso podprti na vašem sistemu! PiP nebo deloval!
+
+pip.command.help=Vnesi ukaz za seznam argumentov.
+
+pip.command.add=/pip <dodaj> <igralec>           Dodaj igralca na seznam
+pip.command.remove=/pip <odstrani> <igralec>           Odstrani igralca iz seznama
+
+pip.command.add.success=Igralec dodan!
+pip.command.add.alreadyAdded=Igralec že na seznamu!
+
+pip.command.remove.success=Igralec odstranjen!
+pip.command.add.alreadyRemoved=Igralca ni na seznamu!
+
+pip.command.specifyPlayer=Določite igralca!
