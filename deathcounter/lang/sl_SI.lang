@@ -1,0 +1,9 @@
+#Translated by TheBloodDivision
+dc.message.deathAndRank=Smrti: %1$s Uvrstitev: %2$s
+dc.message.death=Umrli ste %s krat.
+dc.message.rank=Uvrščeni ste %s na serverju.
+dc.command.resetAll=DC: Resetiram smrti za vse igralce
+dc.command.resetPlayer=DC: Resetiram smrti za %s
+dc.command.noDeathsPlayer=DC: %s nima smrti.
+dc.command.noDeaths=Na tem serverju še ni prišlo do smrti.
+dc.command.leaderboard=Lestvica smrti:
